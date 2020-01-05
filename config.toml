@@ -1,0 +1,4 @@
+baseURL = "http://postgres.rocks/"
+languageCode = "en-us"
+title = "Postgres Rocks"
+theme = "ananke"
